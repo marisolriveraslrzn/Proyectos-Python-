@@ -31,13 +31,27 @@ Este proyecto es un traductor simple desarrollado en **Python**, que permite tra
 ---
 
 ## 📁 Estructura del código
----
-
+ ```
+Traductor/ 
+├── Translator.py # Script principal
+├── README.md # Documentación del proyecto
+└── .venv/ # Entorno virtual (opcional)
+ ```
 ## ▶️ Ejecución
 
 1. Crear entorno virtual (opcional pero recomendado):
-
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # En Linux/Mac
    .venv\Scripts\activate     # En Windows
+2. Instalar dependencias:
+   ```bash
+   pip install deep-translator tabulate
+   ```
+3. Ejecutar el traductor:
+   ```bash
+   python Translator.py
+    ```
+4. Modificar el idioma de destino en el código si lo deseás:
+   ```python
+   language = 'it'  # Traducir a italiano
