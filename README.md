@@ -54,5 +54,6 @@ Se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este
 
 ---
 
-📎 Para colaboraciones, licencias especiales o consultas, contactá a través de🎓 [LinkedIn](https://www.linkedin.com/in/marisolriveraslrzn)
+📎 Para colaboraciones, licencias especiales o consultas, contactá a través de🎓 [LinkedIn](https://www.linkedin.com/in/marisolrivera96)
+
 
