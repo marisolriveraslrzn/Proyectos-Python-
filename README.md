@@ -2,8 +2,6 @@
 
 Este repositorio reúne una colección de proyectos desarrollados en Python con fines educativos, técnicos y creativos. Están orientados a la enseñanza de programación, automatización de procesos, diseño de interfaces y simulación de sistemas funcionales. Cada proyecto puede ser utilizado como recurso didáctico, base para talleres o parte de un portafolio profesional.
 
-🔗 [Perfil GitHub](https://github.com/andmar963) | 🎓 [LinkedIn](https://www.linkedin.com/in/marisolriveraslrzn)
-
 ---
 
 ## 📁 Índice de Proyectos
@@ -34,14 +32,14 @@ Este repositorio reúne una colección de proyectos desarrollados en Python con 
 ---
 
 ## 📜 Licencia
-
 ### Licencia MIT
 
-Copyright (c) 2025 Andmar
+Copyright (c) 2025 Marisol Rivera Solórzano
 
-Se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el “Software”), para utilizar el Software sin restricciones, incluyendo sin limitación los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a quienes se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
+Se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el “Software”), para utilizar el Software **exclusivamente con fines educativos, personales y no comerciales**, incluyendo sin limitación los derechos de uso, copia, modificación, fusión, publicación y distribución, sujeto a las siguientes condiciones:
 
-> Este aviso de copyright y el permiso se incluirán en todas las copias o partes sustanciales del Software.
+- Este aviso de copyright y esta nota de permiso deben incluirse en todas las copias o partes sustanciales del Software.
+- **No se permite el uso comercial** del Software ni de sus derivados sin autorización expresa por escrito de la autora.
 
 ---
 
@@ -49,7 +47,12 @@ Se concede permiso, sin cargo, a cualquier persona que obtenga una copia de este
 
 🛠️ Se proporciona “tal cual” – sin garantías, úsalo bajo tu propio riesgo.  
 📜 Sin garantía – no se asegura rendimiento ni adecuación para ningún propósito.  
-⚖️ Sin responsabilidad – el autor no se hace responsable por daños o reclamos.  
+⚖️ Sin responsabilidad – la autora no se hace responsable por daños o reclamos.  
 🔄 Uso libre – pero bajo tu propia discreción y responsabilidad.
 
-🚀 En resumen: ¡Usalo, pero no me culpes! 😄
+🚫 En resumen: Usalo para aprender, enseñar o experimentar… pero no para venderlo. 😄
+
+---
+
+📎 Para colaboraciones, licencias especiales o consultas, contactá a través de🎓 [LinkedIn](https://www.linkedin.com/in/marisolriveraslrzn)
+
